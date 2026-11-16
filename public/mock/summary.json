@@ -1,0 +1,10 @@
+{
+  "currency": "INR",
+  "totalTransactions": 24,
+  "paidSalesMinor": 2285300,
+  "paidCount": 15,
+  "pendingCount": 5,
+  "failedCount": 4,
+  "periodStart": "2026-11-01",
+  "periodEnd": "2026-11-08"
+}
